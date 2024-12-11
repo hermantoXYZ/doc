@@ -4,7 +4,9 @@ icon: books
 
 # International Journal
 
-> ## **Analysis of Volatility and Factors Influence LQ45 Index and its Impact to Economic Growth in Indonesia**
+{% hint style="success" %}
+### **Analysis of Volatility and Factors Influence LQ45 Index and its Impact to Economic Growth in Indonesia**
+{% endhint %}
 
 ***
 

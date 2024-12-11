@@ -1,7 +1,25 @@
-# Summary
+# Table of contents
 
-* [Introduction](README.md)
-* [Chapter 1](docs/chapter1.md)
-* [Chapter 2](docs/chapter2.md)
-  * [Topic 1](docs/subtopics/topic1.md)
-  * [Topic 2](docs/subtopics/topic2.md)
+## Bermula
+
+* [Personal Information](README.md)
+
+## Educational Background
+
+* [Page 1](educational-background/page-1.md)
+
+## Work or Organizational Experience
+
+* [Page 2](work-or-organizational-experience/page-2.md)
+
+## Projects or Works
+
+* [Page 3](projects-or-works/page-3.md)
+
+## &#x20;Skills
+
+* [Page 4](skills/page-4.md)
+
+## Portfolio&#x20;
+
+* [Page 5](portfolio/page-5.md)

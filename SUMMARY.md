@@ -8,7 +8,7 @@
 
 ## Educational Background
 
-* [Page 1](educational-background/page-1.md)
+* [Pendidikan HermantoXYZ](educational-background/page-1.md)
 
 ## Work or Organizational Experience
 
@@ -18,10 +18,10 @@
 
 * [Page 3](projects-or-works/page-3.md)
 
-## &#x20;Skills
+## Skills
 
 * [Page 4](skills/page-4.md)
 
-## Portfolio&#x20;
+## Portfolio
 
 * [Page 5](portfolio/page-5.md)

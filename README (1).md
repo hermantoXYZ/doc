@@ -1,6 +1,0 @@
----
-icon: melon-slice
----
-
-# Welcome
-

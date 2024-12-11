@@ -1,3 +1,7 @@
+---
+icon: school
+---
+
 # Pendidikan HermantoXYZ
 
 {% stepper %}

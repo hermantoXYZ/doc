@@ -25,3 +25,8 @@
 ## Portfolio
 
 * [Page 5](portfolio/page-5.md)
+
+## PENELITIAN/PUBLIKASI
+
+* [International Journal](penelitian-publikasi/international-journal.md)
+* [Nasional Journal](penelitian-publikasi/nasional-journal.md)

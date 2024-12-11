@@ -20,3 +20,5 @@ layout:
 
 # Welcome
 
+Halo semuanya, perkenalkan nama saya HermantoXYZ, dokumentasi ini adalah upaya saya membagikan sebuah catatan digital pribadi, catatan digital pengetahuan seputar dunia dan mungkin pengatahuan kebijakan untuk bekal kita di akhirat.
+

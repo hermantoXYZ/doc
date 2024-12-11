@@ -14,9 +14,10 @@
 
 * [Page 2](work-or-organizational-experience/page-2.md)
 
-## Projects or Works
+## Projects
 
-* [Page 3](projects-or-works/page-3.md)
+* [Jejak Projek](projects/jejak-projek.md)
+* [Waplex](projects/page-3.md)
 
 ## Skills
 

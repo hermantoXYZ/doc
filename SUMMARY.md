@@ -1,8 +1,10 @@
 # Table of contents
 
+* [Welcome](README.md)
+
 ## Bermula
 
-* [Personal Information](README.md)
+* [Personal Information](<README (1).md>)
 
 ## Educational Background
 

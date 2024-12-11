@@ -4,9 +4,7 @@ icon: books
 
 # International Journal
 
-{% hint style="success" %}
 ### **Analysis of Volatility and Factors Influence LQ45 Index and its Impact to Economic Growth in Indonesia**
-{% endhint %}
 
 ***
 
@@ -20,7 +18,7 @@ The results of the tests conducted, it is known that the LQ45 index data is long
 
 <details>
 
-<summary><strong>Volume/Issue</strong></summary>
+<summary>Volume/Issue</summary>
 
 &#x20;Volume 8 - 2023, Issue 1 - January
 

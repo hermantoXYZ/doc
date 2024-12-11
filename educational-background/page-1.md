@@ -16,7 +16,7 @@ Pada 2015 saya mengambil program Studi Ekonomi Pembangunan, mengambil studi ekon
 {% step %}
 ### SMA Negeri 1 Angkona
 
-Menempuh pendidikan Sekolah Menengah Atas di Smangko, merupakan sekolah yang dekat dengan Rumah, sekitar 4 km dari rumah.
+Menempuh pendidikan Sekolah Menengah Atas di Smangko, merupakan sekolah yang dekat dengan Rumah, sekitar 4 km dari rumah. Waktu itu, saya merupakan siswa di kelas Ilmu Pengetahuan Alam (IPA)&#x20;
 {% endstep %}
 {% endstepper %}
 

@@ -15,9 +15,9 @@
 
 * [Pendidikan HermantoXYZ](educational-background/page-1.md)
 
-## Work or Organizational Experience
+## Working Experience
 
-* [PT Latama Media Satu](work-or-organizational-experience/sulselsatu.md)
+* [PT Latama Media Satu](working-experience/sulselsatu.md)
 
 ## Projects
 
@@ -28,3 +28,7 @@
 
 * [Back End Project](skills/backend.md)
 * [Design](skills/design.md)
+
+## Organization/Community
+
+* [Read More](organization-community/read.md)

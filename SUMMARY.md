@@ -6,6 +6,11 @@
 
 * [Personal Information](<README (1).md>)
 
+## PENELITIAN/PUBLIKASI
+
+* [International Journal](penelitian-publikasi/international-journal.md)
+* [Nasional Journal](penelitian-publikasi/nasional-journal.md)
+
 ## Educational Background
 
 * [Pendidikan HermantoXYZ](educational-background/page-1.md)
@@ -23,12 +28,3 @@
 
 * [Back End Project](skills/backend.md)
 * [Design](skills/design.md)
-
-## Portfolio
-
-* [Page 5](portfolio/page-5.md)
-
-## PENELITIAN/PUBLIKASI
-
-* [International Journal](penelitian-publikasi/international-journal.md)
-* [Nasional Journal](penelitian-publikasi/nasional-journal.md)

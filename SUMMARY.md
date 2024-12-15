@@ -22,6 +22,7 @@
 ## Skills
 
 * [Back End Project](skills/page-4.md)
+* [Design](skills/design.md)
 
 ## Portfolio
 

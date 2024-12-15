@@ -6,6 +6,10 @@
 
 * [Personal Information](<README (1).md>)
 
+## Maha Guru
+
+* [Prof Wim Poli ](maha-guru/prof-wim-poli.md)
+
 ## PENELITIAN/PUBLIKASI
 
 * [International Journal](penelitian-publikasi/international-journal.md)

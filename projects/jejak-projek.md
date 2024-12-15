@@ -1,5 +1,9 @@
 # Jejak Projek
 
+{% hint style="danger" %}
+Disclaimer: Tulisan ini tidak menggunakan AI/Sejenisnya
+{% endhint %}
+
 {% stepper %}
 {% step %}
 ### Waplex.com
@@ -68,33 +72,33 @@ Kemudian mengembangkan sejumlah web serupa, app streaming dan download lagu grat
 {% endstep %}
 
 {% step %}
-###
+### inviteku.com
 
-
+Sebuah platform digital untuk membuat undangan berbasis digital, dengan fitur menyerupai canva.com yang memudahkan user untuk mengedit, menyebarkan undangan digital
 {% endstep %}
 
 {% step %}
-###
+### Calc-CPNS
 
-
+Sebauh website sederhana untuk menghitung nilai total SKD dan SKB CPNS 2024 Merujuk rumus atau forumal yang dibagikan oleh instansi terkait.
 {% endstep %}
 
 {% step %}
-###
+### Web Kepakaran
 
-
+Sebuah web untuk menampilkan database profile dosen/kepakaran yang terkait dengan dosen tersebut.
 {% endstep %}
 
 {% step %}
-###
+### Ecomagz
 
-
+Editor atau Layout sebuah majalah ekonomi kampus di Fakultas Ekonomi dan Bisnis, Universitas Hasanuddin sejak Edisi 1 hingga Edisi ke-10
 {% endstep %}
 
 {% step %}
-###
+### Rumah  Parlemen
 
-
+Editor/Layout majalah di DPRD Kota Makassar Edisi Januari 2023-2024
 {% endstep %}
 
 {% step %}
@@ -109,4 +113,6 @@ Kemudian mengembangkan sejumlah web serupa, app streaming dan download lagu grat
 
 {% endstep %}
 {% endstepper %}
+
+
 

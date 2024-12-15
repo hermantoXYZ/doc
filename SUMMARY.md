@@ -12,7 +12,7 @@
 
 ## Work or Organizational Experience
 
-* [Page 2](work-or-organizational-experience/page-2.md)
+* [PT Latama Media Satu](work-or-organizational-experience/sulselsatu.md)
 
 ## Projects
 
@@ -21,7 +21,7 @@
 
 ## Skills
 
-* [Back End Project](skills/page-4.md)
+* [Back End Project](skills/backend.md)
 * [Design](skills/design.md)
 
 ## Portfolio

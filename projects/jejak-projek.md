@@ -100,18 +100,6 @@ Editor atau Layout sebuah majalah ekonomi kampus di Fakultas Ekonomi dan Bisnis,
 
 Editor/Layout majalah di DPRD Kota Makassar Edisi Januari 2023-2024
 {% endstep %}
-
-{% step %}
-###
-
-
-{% endstep %}
-
-{% step %}
-###
-
-
-{% endstep %}
 {% endstepper %}
 
 

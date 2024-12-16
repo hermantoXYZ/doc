@@ -6,7 +6,7 @@ Tulisan ini saya rangkum dari akun Facebook [https://web.facebook.com/wim.poli](
 
 ## **PUJA-HUJAT**&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Kini, di dunia perpolitikan, puja-hujat adalah sebuah gejala yang kian mengglobal. Perang-tanding antara lain ditampilkan dalam bentuk baliho raksasa yang terpampang di berbagai tempat strategis.&#x20;
 
@@ -30,7 +30,7 @@ Kehadirannya di garis depan membuat para prajuritnya percaya, menghargai dan men
 
 ## KELUH-KESAH RODA PEDATI
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;Aesop adalah pendongeng ulung dari Yunani. Matanya jeli mengamati apa yang terjadi di dalam masyarakat, lalu mengungkapkannya dalam bentuk dongeng, sebagai sumber pemebelajaran hidup yang kaya, bagi masyarakat segala umur. Pada suatu hari, demikian Aesop, dua ekor lembu sedang menarik sebuah pedati di jalan desa yang berlumpur. Beban kerjanya berat, tetapi keduanya tidak berkeluh-kesah.&#x20;
 
@@ -42,7 +42,7 @@ Akhirnya keduanya teriak: “Tutup mulutmu! Apa kerjamu? Kami yang menarik beban
 
 ## DIAGNOSA DAN TERAPI
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Disadari atau tidak, hidup ini adalah adegan tanya-jawab yang berlangsung dari waktu ke waktu. Mutu kehidupan ditentukan oleh mutu pertanyaan dan jawabannya. Apa ilustrasinya yang dipetik dari pengalaman nyata? Beberapa tahun yang lalu penulis dirawat di sebuah rumah sakit, dan ditangani seorang dokter ahli yang ditetapkan Manajemen RS. Setiap kali penulis dikunjungi, sang dokter ahli ini hanya memperhatikan laporan laboratorium di tangannya. Apa yang diperiksakan ke laboratorium dia yang tentukan, menurut keahliannya.&#x20;
 
@@ -58,7 +58,7 @@ Pertanyaannya mungkin saja berbeda dari pertanyaan yang diajukan orang lain. Aki
 
 ## PENGUCILAN KELUARGA KELELAWAR&#x20;
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Aesop adalah pendongeng ulung dari Yunani. Matanya jeli mengamati apa yang terjadi di dalam masyarakat, lalu mengungkapkannya dalam bentuk dongeng, sebagai sumber pemebelajaran hidup yang kaya, bagi masyarakat segala umur. Pada suatu saat, demikian Aesop, keluarga burung menyatakan perang kepada keluarga hewan lain yang sering memangsa mereka, seperti kucing dan serigala.&#x20;
 
@@ -71,15 +71,55 @@ Akibatnya, keluarga kelelawar mencari makan pada malam hari, ketika mana hewan l
 
 ## KEWASPADAAN COVID-19!
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;Aesop adalah pendongeng ulung dari Yunani. Matanya jeli mengamati apa yang terjadi di dalam masyarakat, lalu mengungkapkannya dalam bentuk dongeng, sebagai sumber pemebelajaran hidup yang kaya, bagi masyarakat segala umur. Pada suatu hari, demikian Aesop, seekor serigala muda untuk pertama kalinya berjumpa dengan seekor singa. Begitu melihat sang singa, sang serigala muda langsung tempuh langkah seribu, gemetaran, menyembunyikan dirinya. Cerita masih berlanjut. Ketika berjumpa dengan sang singa pada kedua kalinya, sang serigala muda masih ketakutan. Ia bersembunyi di balik sebuah pohon, mengintip ke arah sang singa, lalu melarikan diri ke tempat yang aman. Pada perjumpaan yang ketiga sang serigala muda sudah menjadi terbiasa dan hilang ketakutannya. Dengan berani ia menyapa: “Halo. Apa kabar?” Seketika ia diterkam. Renungan: Terbiasa melihat bahaya berpeluang menurunkan kewaspadaan. Covid-19? -- (15/12/2020)
 
 
 
+## KERETA KUDA
+
+(02/07/2017)
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+Mengapa heran? Orang heran melihat sesuatu yang baru karena belum ada rekaman di dalam otaknya tentang apa yang sedang dilihatnya. Ketika mobil Ford muncul pertama kali di jalanan di Amerika, orang keheranan melihatnya, karena rekaman yang ada di dalam otaknya ialah: kereta yang ditarik kuda. Dengan bertanya dan memahami apa yang mengherankan, muncul rekaman baru, yang meniadakan rekaman lama di dalam otak. Orang tidak lagi heran melihat kereta yang berjalan tanpa kuda.
+
+Setiap orang yang menggagaskan perubahan di dalam sesuatu organisasi seyogianya mengantisipasi tanggapan negatif dari mereka yang masih bermental “kereta kuda.” Pertanyaan: Apakah ada “kereta kuda” di dalam benak diri dan bangsaku, kini dan di sini?
 
 
-BUNGA IRIS PUTIH
+
+## DARI MUSIBAH CHALLENGER
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+Pada tanggal 28 Januari 1986 dunia dikejutkan oleh meledaknya pesawat ulang-alik Challenger, yang menewaskan tujuh orang awaknya. Apa penyebabnya, dan apa pelajarannya?
+
+Hasil penelitian mengungkapkan bahwa penyebab ledakan adalah O-ring, yaitu sebuah cincin di bagian belakang pesawat, yang patah dalam suhu yang sangat dingin. Ciri O-ring ini sudah diketahui, tetapi informasinya tidak sampai ke manajemen puncak NASA. Mengapa?
+
+Manajemen puncak NASA adalah orang-orang profesional yang tahu tentang tugasnya, tetapi tidak cukup menghargai “berita buruk” yang disampaikan para bawahan kepada mereka. Bawahan harus mampu menyelesaikan sendiri masalah yang dihadapinya. Dari pengalamannya, para bawahan “belajar” untuk tidak menyampaikan berita buruk kepada atasan. Menangani fakta brutal secara produktif tidak menjadi ciri Kebudayaan Organisasi NASA, yang didominasi oleh “kepintaran” manajemen puncak. Tetapi, apakah itu Kebudayaan Organisasi?
+
+Secara singkat, Kebudayaan Organisasi adalah caranya orang bepikir dan berperilaku di dalam sesuatu organisasi, yang terbentuk oleh pengalaman pemecahan masalah internal dan eksternal dalam perjalanan waktu. Pengalaman yang berhasil cenderung akan diulang-ulangi sehingga terbentuk pola berpikir dan berperilaku yang cenderung terus dipertahankan sebagai jati-diri organisasi.
+
+Pesan: Sumber kesalahan terbesar dalam pemecahan masalah dapat terletak pada hubungan antar manusia di dalam kebudayaan organisasi yang didominasi oleh perilaku manajemen puncak.
+
+## EMPAT MATA
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Preisden Suharto dan Perdana Menteri Singapura, Lee Kuan Yew, berbeda usia tiga tahun. Suharto lebih tua. Keduanya adalah negarawan yang berkali-kali bertemu empat mata, membicarakan hal-hal mendasar dan genting, menyangkut hubungan kedua negara. Suhu hubungan kedua negara sering naik-turun, tetapi selalu terkendali karena keduanya mengandalkan pertemuan empat mata.
+
+Suharto dan rakyat Indonesia marah ketika Singapura menghukum mati dua marinir Indonesia pada tahun 1968. Suhu diplomatik yang tinggi akibat kejadian ini baru menyejuk lima tahun kemudian pada saat kunjungan Lee Kuan Yew ke Indonesia pada bulan Mei 1973. Berdasarkan berbagai saran Lee Kuan Yew setuju untuk, setelah meletakkan karangan bunga di Makam Pahlawan Kalibata mengenang para jenderal yang dibunuh pada peristiwa kudeta PKI yang gagal pada bulan September 1965, bersedia pula mengunjungi dan menaburkan bunga di makam dua marinir yang dihukum mati oleh Singapura pada tahun 1968. Ketegangan berakhir menjadi persahabatan.
+
+Hubungan kedua negara anjlok lagi pada akhir tahun 1975. Ketika itu, pada saat pemungutan suara di Sidang Umum PBB tentang aneksasi Timor Timur ke dalam Republik Indonesia, wakil Singapura mengajukan suara abstain, berbeda dari negara-negara ASEAN lainnya (Asosiasi Negara-Negara Asia Tenggara dibentuk pada bulan Agustus 1967 di Bangkok). Berita yang sampai ke telinga Lee Kuan Yew ialah, Presiden Suharto marah besar, lebih marah ketimbang marahnya pada saat dua marinir Indonesia dihukum mati.
+
+Sekali lagi ketegangan antar negara yang sangat eksplosif ini dapat dikendalikan melalui pertemuan empat mata kedua pemimpin negara pada 29 November 1976 di Singapura. Dengan tegas dan terbuka Suharto menyatakan pendapatnya, kemudian dengan sabar mendengar pendapat Lee Kuan Yew. Lee Kuan Yew menyatakan bahwa Singapura tidak mempersoalkan aneksasi Timor Timur ke dalam Republik Indonesia. Tetapi, Singpura tidak dapat secara terbuka menyatakan persetujuannya atas serangan dan pendudukan Indonesia terhadap Timor Timur oleh Indonesia. Kalau Singapura menyetujuinya, dunia mendapat kesan yang salah tentang posisi Singapura mempertahankan keselamatan negaranya. Suharto mengerti dan menerima penjelasan Lee Kuan Yew.
+
+Berdasarkan pengalaman beberapa pertemuan empat mata tersebut, Lee Kuan Yew berpendapat bahwa Suharto adalah pendengar yang baik, tidak gampang membuat janji, tetapi sekali ia membuat janji, ia akan setia menepatinya.
+
+Pesan: Dialog yang terbuka dan tulus adalah jalan yang ampuh mengatasi perbedaan pendapat ke arah menang-menang. Kebutuhan masa kini di Indonesia?
+
+## BUNGA IRIS PUTIH
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 

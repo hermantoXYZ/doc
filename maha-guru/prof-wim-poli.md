@@ -74,3 +74,17 @@ Akibatnya, keluarga kelelawar mencari makan pada malam hari, ketika mana hewan l
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;Aesop adalah pendongeng ulung dari Yunani. Matanya jeli mengamati apa yang terjadi di dalam masyarakat, lalu mengungkapkannya dalam bentuk dongeng, sebagai sumber pemebelajaran hidup yang kaya, bagi masyarakat segala umur. Pada suatu hari, demikian Aesop, seekor serigala muda untuk pertama kalinya berjumpa dengan seekor singa. Begitu melihat sang singa, sang serigala muda langsung tempuh langkah seribu, gemetaran, menyembunyikan dirinya. Cerita masih berlanjut. Ketika berjumpa dengan sang singa pada kedua kalinya, sang serigala muda masih ketakutan. Ia bersembunyi di balik sebuah pohon, mengintip ke arah sang singa, lalu melarikan diri ke tempat yang aman. Pada perjumpaan yang ketiga sang serigala muda sudah menjadi terbiasa dan hilang ketakutannya. Dengan berani ia menyapa: “Halo. Apa kabar?” Seketika ia diterkam. Renungan: Terbiasa melihat bahaya berpeluang menurunkan kewaspadaan. Covid-19? -- (15/12/2020)
+
+
+
+
+
+BUNGA IRIS PUTIH
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+Kita tidak hanya berbicara tentang konflik melainkan juga kebersamaan dalam perbedaan, yang menjadi dasar kehidupan yang bermakna, tanpa konflik. Itulah yang dikagumi oleh Charles Handy ketika ia melihat salah sebuah lukisan Vincent van Gogh (1853-1890), pelukis Belanda yang kesohor. Lukisannya adalah lukisan bunga iris putih, yang sendirian berada di tengah sekumpulan bunga iris ungu. Charles Handy langsung menidentifikasi bunga iris putih itu sebagai dirinya sendiri. (Charles Handy, “The Hungry Spirit; New Thinking for A New World”; 2002: 130). Ia merasa dirinya berbeda dari orang lain, tetapi sekaligus juga merasa membutuhkan orang lain, tanpa menutupi perbedaannya. Ia membayangkan, apa kesannya andaikata bunga iris putih yang satu itu tidak berada di tengah-tengah sekelompok bunga iris lainnya yang berwarna ungu.
+
+Tampaknya, tanpa suara, van Gogh berbicara dengan lantang kepada para pengagumnya sepanjang abad untuk menghargai perbedaan yang saling mendukung eksistensi masing-masing pihak di alam raya ini. Kesaksian van Gogh dengan lukisannya sejalan dengan ungkapan psikolog kenamaan, Carl Gustav Jung (1875-1961), yang mengatakan bahwa: “Aku membutuhkan Kita untuk menjadi Aku yang sebenarnya”.
+
+Pesan: Kebinekaan di dalam organisasi tidak perlu menjadi sumber konflik, melainkan perbedaan yang saling mengisi untuk mengokohkan kehadiran organisasi di dalam lingkungan di mana ia berada.

@@ -75,7 +75,43 @@ Akibatnya, keluarga kelelawar mencari makan pada malam hari, ketika mana hewan l
 
 &#x20;Aesop adalah pendongeng ulung dari Yunani. Matanya jeli mengamati apa yang terjadi di dalam masyarakat, lalu mengungkapkannya dalam bentuk dongeng, sebagai sumber pemebelajaran hidup yang kaya, bagi masyarakat segala umur. Pada suatu hari, demikian Aesop, seekor serigala muda untuk pertama kalinya berjumpa dengan seekor singa. Begitu melihat sang singa, sang serigala muda langsung tempuh langkah seribu, gemetaran, menyembunyikan dirinya. Cerita masih berlanjut. Ketika berjumpa dengan sang singa pada kedua kalinya, sang serigala muda masih ketakutan. Ia bersembunyi di balik sebuah pohon, mengintip ke arah sang singa, lalu melarikan diri ke tempat yang aman. Pada perjumpaan yang ketiga sang serigala muda sudah menjadi terbiasa dan hilang ketakutannya. Dengan berani ia menyapa: “Halo. Apa kabar?” Seketika ia diterkam. Renungan: Terbiasa melihat bahaya berpeluang menurunkan kewaspadaan. Covid-19? -- (15/12/2020)
 
+## PEMILIK MASALAH
 
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
+Peter Drucker (1909-2005) sudah prediksi pada tahun 1957 bahwa pekerja terpelajar (knowedge worker) adalah gejala fenomenal abad XXI. Sampai tingkat tertentu pekerja semacam ini mempunyai pengetahuan, ketrampilan, dan kemauan untuk unjuk karyanya sebagai identitas diri. Potensi dirinya akan kian terwujud jika ia diakui sebagai pemilik masalah di bidang tugasnya, dan diberikan kebebasan untuk kreatif memecahkan masalahnya, baik secara mandiri maupun dengan dukungan orang lain.
+
+Konsep “genchi genbutsu” dari Jepang sangat relevan untuk diterapkan di lingkungan para pekerja terdidik. “Genchi genbutsu” - yang berarti “pergi dan lihat” - adalah prinsip kunci dari Sistem Produksi Toyota. Untuk memahami masalah yang dihadapi, pemilik masalah harus pergi sendiri ke tempat yang sebenarnya (“gemba”), di mana pekerjaan dilakukan.
+
+Padanannya dalam bahasa Indonesia adalah “blusukan.” Pemilik masalah dapat juga memecahkan masalahnya dengan bantuan orang lain, misalnya, atasannya, rekan sekerjanya, bawahannya, atau seseorang konsultan eksternal. Tetapi, orang lain yang memberikan bantuan tersebut tidak boleh mengambil alih pemecahan masalah dari pemilik masalah. Pengambil-alihan pemecahan masalah dari tangan pemilik masalah dapat berakibat pemilk masalah: (1) kehilangan kegairahan pemecahan masalah; (2) mengalihkan bebannya kepada orang lain; (3) tidak berkembang pengetahuan dan kemampuannya memecahkan masalah.
+
+Para akademisi di lingkungan perguruan tinggi cenderung menghendaki adanya kebebasan berpikir dan berkarya, dan tidak suka dibatasi oleh berbagai peraturan yang diterapkan administrator perguruan tinggi. Demikian juga kecenderungan kehendak para pekerja terdidik lainnya.
+
+Pesan: Kepemimpinan partisipatif merupakan prasyarat terwujud dan meningkatnya kreativitas dan produktivitas para pekerja terdidik
+
+## PERTANYAAN KECIL
+
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+Peter F. Drucker (1909-2005), Guru para Guru Manajemen abad XX-XXI, menuturkan sebuah pengalaman yang sederhana, tetapi yang sangat berpengaruh dalam perjalanan hidup diri dan rekan-rekan sekelasnya. Pada suatu hari, guru agamanya, Pflieger, bertanya di kelas: “Kalian mau dikenangkan sebagai apa di dalam hidup ini?”
+
+Tidak ada yang dapat menjawab pertanyaan ini. Kata gurunya melanjutkan: “Saya memang tidak berharap kalian dapat menjawab pertanyaan ini sekarang. Tetapi, kalau sampai usia 50 tahun kalian belum dapat menjawabnya, hidupmu mungkin telah disia-siakan.”
+
+Enampuluh tahun kemudian, kelas tersebut mengadakan reuni, ketika mana sang guru sudah meninggal. Salah seorang peserta reuni bertanya, apakah mereka masih ingat pertanyaan yang ditanyakan guru mereka. Semuanya masih ingat, dan semuanya sepakat bahwa pertanyaan itu telah membawa perubahan yang menentukan dalam perjalanan hidup mereka, walaupun mereka belum mengerti pertanya-annya ketika ditanyakan guru mereka puluhan tahun yang lalu.
+
+Pertanyaan yang tampak sepele di atas telah menentukan perjalanan hidup Drucker. Ia memilih dunia usaha sebagai bidang pengabdiannya. Dari sana ia beranjak kemudian ke perguruan tinggi, membuka dan menjalankan Program Pascasarjana di bidang Manajemen hingga akhir hayatnya. Ia meninggal pada usia 96 tahun.
+
+Renungan: Sebuah pertanyaan yang tampak sepele hari ini, dapat menentukan makna kehidupan orang lain puluhan tahun ke depan.
+
+## GADING GAJAH
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+Sebuah pepatah Indonesia berbunyi: “Harimau mati meninggalkan belangnya, gajah mati meninggalkan gadingnya.” Pepatah ini sangat relevan diterapkan pada kehidupan almarhum Lee Kuan Yew (1923-2015), Perdana Menteri pertama Singapura, yang meninggal pada 23 Maret 2015. Empat tahun sebelum meninggal ia mengumpulkan sejumlah wartawan, yang ditugaskannya untuk mewancarai para pemuda Singapura, mengungkapkan apa yang ada di benak mereka. Berbekal hasil wawancara tersebut para wartawan ini selanjutnya mewancarai Lee Kuan Yew selama 32 jam. Hasil akhirnya ialah, terbitnya sebuah buku dengan judul “Hard Truths to Keep Singapore Going” pada tahun 2011. Buku tersebut berisi fakta yang gamblang, bagaikan “gading gajah” yang diwariskannya kepada Singapura.
+
+Salah seorang wartawan perempuan termuda memberikan kesaksiannya tentang wawancara tersebut sebagai berikut: “Ketika berbicara, matanya bernyala-nyala, dengan gigi yang digertakkan. Ia mengepalkan tinjunya dan suaranya menggumpal ke dalam kerongkongannya sebelum dimuntahkan ke luar Pada saat itu, pancaran mukanya menampakkan kembali determinasi yang menyala-nyala sebagai seorang pemimpin muda pada tahun 1950an dan 1960an, ketika ia menyemangati rakyatnya sendiri. Orang lalu mengingat kembali bahwa Lee dilahirkan sebagai pemimpin.”
+
+Renungan: Warisan terbaik seseorang pemimpin kepada generasi penerusnya ialah kepedulian dan keteladanannya, yang menjadi modal keberlanjutan pembangunan di masa depan. Berlaku juga untuk diriku dan bangsaku, Indonesia.
 
 ## KERETA KUDA
 

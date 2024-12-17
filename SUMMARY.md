@@ -8,7 +8,7 @@
 
 ## Maha Guru
 
-* [Prof Wim Poli ](maha-guru/prof-wim-poli.md)
+* [Prof Wim Poli](maha-guru/prof-wim-poli.md)
 
 ## PENELITIAN/PUBLIKASI
 
@@ -36,3 +36,7 @@
 ## Organization/Community
 
 * [Read More](organization-community/read.md)
+
+## post
+
+* [Gumalan Rakyat Jelata](post/gumalan-rakyat-jelata.md)

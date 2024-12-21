@@ -107,10 +107,6 @@ Sang kumbang lalu menjelaskan tindakannya kepada Yupiter. Sebagai dewa yang adil
 
 Renungan: Daya dendam pihak kecil mungkin tidak kecil. – (06/12/2020)
 
-
-
-
-
 ## REKAM JEJAK
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
@@ -133,13 +129,47 @@ Renungan: Daya sebar berita palsu !!! –(06/12/2020)
 
 
 
+## DAYA EDAR CERITA BURUNG (Revisi FB 9 Desember 2019)
+
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
+Para awak pesawat angkasa luar Amerika - yang dinamakan “astronaut” – menggunakan pena berisi tinta. Di angkasa luar, tintanya membandel, tidak mau keluar dari penanya. Amerika putar otak untuk mengembangkan pena yang dapat digunakan. Berhasil, tetapi biayanya mahal. Batal digunakan.
+
+Lain ceritanya tentang para awak pesawat angkasa luar Rusia, yang dinamakan “kosmonaut.” Nama “austronaut” dan “kosmonaut” sama maknanya, tetapi harus ditampilkan beda dalam iklim perang dingin. Para kosmonaut menggunakan pensil yang murah-meriah, bukan pena berisi tinta. Dengan sepotong informasi ini beredarlah cerita berdasarkan imajinasi, bahwa orang Amerika berpikir canggih tetapi tidak praktis, dibandingkan dengan orang Rusia. Ternyata cerita ini keliru, tetapi sudah terlanjur beredar luas dengan berbagai bumbu penyedapnya.
+
+Pinsil yang digunakan Rusia memang murah-meriah, tetapi gampang patah di angkasa luar, dan menimbulkan debu kayu yang gampang terbakar di dalam pesawat yang kaya oksigen. Murah-meriah tetapi dapat berubah menjadi malapetaka yang merugikan dan memalukan di mata dunia .
+
+Dengan imajinasinya orang dapat menggunakan “sepotong informasi” untuk menghasilkan “cerita lengkap” yang masuk akal. Makin sedikit informasinya, makin kuat imajinasinya, makin laku ceritanya.
+
+Renungan: Kian miskin informasi, kian tinggi imajinasi, menuju “cerita lengkap” yang hangat, menghanyutkan dan menggaduhkan. Daya edarnya tinggi, lewat “cerita burung.” – (09/12/2020)
 
 
 
+## SESAL UNJUK KESAL?
+
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+
+Aesop adalah pendongeng ulung dari Yunani. Matanya jeli mengamati apa yang terjadi di dalam masyarakat, lalu mengungkapkannya dalam bentuk dongeng, sebagai sumber pemebelajaran hidup yang kaya, bagi masyarakat segala umur.
+
+Pada suatu hari, demikian Aesop, Tikus sedang bepergian di sebuah jalan bebas hambatan. Ia bangga, karena sebagai makhluk kecil dapat bepergian di jalan bebas hambatan, tidak seperti tikus-tikus lainnya. Tiba-tiba tampak rombongan Maha Raja lewat di jalan yang sama. Kereta Maha Raja ditarik Gajah, dikawal Anjing dan Kucing raksasa. Banyak hewan tampil menyaksikan pawai besar yang mempesona ini. Tidak satu pun memperhatikan sang tikus kecil di tepi jalan. Ia tersinggung berat. Apa beda dirinya dari gajah? Keduanya adalah hewan berkaki empat, dengan dua mata dan dua telinga.
+
+Karena tersinggung, Tikus unjuk kesal dengan suara melengking: “Apa hebatnya gajah itu? Badannya besar, belalainya panjang, kulitnya kasar, otaknya kecil.” Kucing, anggota pasukan pengawal Maha Raja, bertindak cepat dan tepat waktu. Selesai!
+
+Renungan: Sesal unjuk kesal? – (08/12/2020)
 
 
 
+## AKU DAN KITA
 
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+
+Aesop adalah pendongeng ulung dari Yunani. Matanya jeli mengamati apa yang terjadi di dalam masyarakat, lalu mengungkapkannya dalam bentuk dongeng, sebagai sumber pemebelajaran hidup yang kaya, bagi masyarakat segala umur.
+
+Pada suatu hari, demikian Aesop, dua pemuda pengelana sedang berkelana, lewat sebuah jalan besar. Salah seorangnya menemukan sebuah dompet berisi sejumlah uang di tengah jalan. Katanya: “Langkah kanan. Aku beruntung; menjadi kaya.” Kata rekannya: “Jangan katakan Aku, melainkan Kita, dua rekan akrab seperjalanan.” Dengan lantang kata rekannya: “Aku yang menemukannya, bukan Kita.”
+
+Tiba-tiba tampak mendekat sejumlah orang dengan teriakan: “Pencuri! Tangkap pencurinya!” Kata pemuda pertama dengan gemetaran: “Apa yang harus Kita kerjakan?” Kata rekannya: “Jangan katakan Kita, melainkan Aku.”
+
+Renungan: Aku dan Kita dalam suka dan duka! – (08/12/2020)
 
 
 

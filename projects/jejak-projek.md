@@ -10,7 +10,7 @@ Disclaimer: Tulisan ini tidak menggunakan AI/Sejenisnya
 
 Apakah anda pernah mendengar dan mengakses waptrick? atau sejenisnya. Pada 2016 saya mengembangkan sebuah website waplex.com, terinpirasi dari wapclash milik kerabat, motivasi juang untuk belajar, bersumber keyword dari rekan saya, saya mengembangkan waplex.com, berdasarkan script yang beredar di internet.&#x20;
 
-<img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" data-size="original">
 {% endstep %}
 
 {% step %}

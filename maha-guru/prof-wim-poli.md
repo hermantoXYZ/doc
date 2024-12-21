@@ -1,3 +1,7 @@
+---
+icon: comment-pen
+---
+
 # Prof Wim Poli
 
 {% hint style="warning" %}
@@ -6,7 +10,7 @@ Tulisan ini saya rangkum dari akun Facebook [https://web.facebook.com/wim.poli](
 
 ## **PUJA-HUJAT**&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Kini, di dunia perpolitikan, puja-hujat adalah sebuah gejala yang kian mengglobal. Perang-tanding antara lain ditampilkan dalam bentuk baliho raksasa yang terpampang di berbagai tempat strategis.&#x20;
 
@@ -18,7 +22,7 @@ Tidak, karena fotoku bukan diriku. Fotoku dinamakan “phenomenon” oleh Immanu
 
 ## APA YANG LAYAK DIINGAT?&#x20;
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Alexander Agung (356-323 SM) dari Yunani sangat terkenal dengan kepemimpinannya yang membuat Makedonia, kerajaan kecil yang dipimpiminnya, akhirnya menjadi kerajaan dunia yang disegani. Kepemimpinannya ditempa pada usia dini oleh gurunya, Aristotle (384-322 SM).&#x20;
 
@@ -30,7 +34,7 @@ Kehadirannya di garis depan membuat para prajuritnya percaya, menghargai dan men
 
 ## KELUH-KESAH RODA PEDATI
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;Aesop adalah pendongeng ulung dari Yunani. Matanya jeli mengamati apa yang terjadi di dalam masyarakat, lalu mengungkapkannya dalam bentuk dongeng, sebagai sumber pemebelajaran hidup yang kaya, bagi masyarakat segala umur. Pada suatu hari, demikian Aesop, dua ekor lembu sedang menarik sebuah pedati di jalan desa yang berlumpur. Beban kerjanya berat, tetapi keduanya tidak berkeluh-kesah.&#x20;
 
@@ -42,7 +46,7 @@ Akhirnya keduanya teriak: “Tutup mulutmu! Apa kerjamu? Kami yang menarik beban
 
 ## DIAGNOSA DAN TERAPI
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Disadari atau tidak, hidup ini adalah adegan tanya-jawab yang berlangsung dari waktu ke waktu. Mutu kehidupan ditentukan oleh mutu pertanyaan dan jawabannya. Apa ilustrasinya yang dipetik dari pengalaman nyata? Beberapa tahun yang lalu penulis dirawat di sebuah rumah sakit, dan ditangani seorang dokter ahli yang ditetapkan Manajemen RS. Setiap kali penulis dikunjungi, sang dokter ahli ini hanya memperhatikan laporan laboratorium di tangannya. Apa yang diperiksakan ke laboratorium dia yang tentukan, menurut keahliannya.&#x20;
 
@@ -58,7 +62,7 @@ Pertanyaannya mungkin saja berbeda dari pertanyaan yang diajukan orang lain. Aki
 
 ## PENGUCILAN KELUARGA KELELAWAR&#x20;
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Aesop adalah pendongeng ulung dari Yunani. Matanya jeli mengamati apa yang terjadi di dalam masyarakat, lalu mengungkapkannya dalam bentuk dongeng, sebagai sumber pemebelajaran hidup yang kaya, bagi masyarakat segala umur. Pada suatu saat, demikian Aesop, keluarga burung menyatakan perang kepada keluarga hewan lain yang sering memangsa mereka, seperti kucing dan serigala.&#x20;
 
@@ -71,9 +75,85 @@ Akibatnya, keluarga kelelawar mencari makan pada malam hari, ketika mana hewan l
 
 ## KEWASPADAAN COVID-19!
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;Aesop adalah pendongeng ulung dari Yunani. Matanya jeli mengamati apa yang terjadi di dalam masyarakat, lalu mengungkapkannya dalam bentuk dongeng, sebagai sumber pemebelajaran hidup yang kaya, bagi masyarakat segala umur. Pada suatu hari, demikian Aesop, seekor serigala muda untuk pertama kalinya berjumpa dengan seekor singa. Begitu melihat sang singa, sang serigala muda langsung tempuh langkah seribu, gemetaran, menyembunyikan dirinya. Cerita masih berlanjut. Ketika berjumpa dengan sang singa pada kedua kalinya, sang serigala muda masih ketakutan. Ia bersembunyi di balik sebuah pohon, mengintip ke arah sang singa, lalu melarikan diri ke tempat yang aman. Pada perjumpaan yang ketiga sang serigala muda sudah menjadi terbiasa dan hilang ketakutannya. Dengan berani ia menyapa: “Halo. Apa kabar?” Seketika ia diterkam. Renungan: Terbiasa melihat bahaya berpeluang menurunkan kewaspadaan. Covid-19? -- (15/12/2020)
+
+
+
+## HARGA TAMPILAN
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Aesop adalah pendongeng ulung dari Yunani. Matanya jeli mengamati apa yang terjadi di dalam masyarakat, lalu mengungkapkannya dalam bentuk dongeng, sebagai sumber pemebelajaran hidup yang kaya, bagi masyarakat segala umur.
+
+Dahulu kala, demikian Aesop, burung merak tidaklah anggun seperti sekarang. Merak adalah burung kesayangan Dewi Yuno, isteri dari Yupiter, kepala para dewa. Sebagai burung kesayangannya Yuno, sang merak merengek, minta bulunya menjadi warna-warna, agar ia dapat tampil anggun di antara semua burung yang ada. Permintaannya dipenuhi. Dengan anggunnya ia tampilkan diri ke sana ke mari, yang menimbulkan rasa iri pada burung-burung lain yang ada di istana Yuno. Cerita belum selesai.
+
+Pada suatu hari sang merak melihat seekor elang melayang ke angkasa, lalu menukik tajam ke bawah, menangkap mangsanya dengan cakarnya yang tajam. Sang merak menjadi iri, dan mulai mengepakkan sayapnya untuk mengangkasa, seperti yang dulunya dapat dikerjakannya dengan mudah. Kini, tidak lagi. Kemerdekaannya telah sirna.
+
+Renungan: Penampilan yang anggun di depan umum ada harganya. – (14/12/2020)
+
+## DAYA DENDAM
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+Aesop, pendongeng ulung dari Yunani, punya mata yang jeli, yang menangkap berbagai gejala keseharian di dalam kehidupan masyarakat. Hasil pengamatannya dituangkan dalam berbagai dongeng, menjadikannya sumber pembelajaran yang kaya, bagi hati dan telinga yang sudi dengar. Segala umur!
+
+Pada suatu hari, demikian Aesop, seekor kumbang bertandang ke seekor elang, membujuknya untuk tidak memangsa temannya, seekor kelinci. Sang elang tidak peduli himbauan sesama hewannya, bahkan mengibaskan sayapnya yang menyebabkan sang kumbang terlempar dari tempatnya. Sang kumbang marah dan putar otaknya yang kecil, bagaimana caranya membalas dendam terhadap elang yang perkasa.
+
+Ketika tiba musim semi, sang kumbang merayap ke atas pohon, menemukan sarang di mana elang meletakkan telurnya. Sekuat tenaga ia mendorong telurnya satu per satu hingga pecah berantakan di atas tanah. Sang elang marah alang kepalang, tetapi tidak menemukan siapa pelakunya. Hal yang sama terjadi lagi pada musim semi berikutnya. Ketika berputus asa, sang elang mendatangi Dewa Yupiter, memintanya agar telurnya diletakkan di pangkuan Yupiter sehingga aman dari pengganggunya. Pemintaan diterima. Tetapi, tanpa kehilangan akal, sang kumbang terbang ke kuping Yupiter, mengganggunya dengan dengungan kepakan sayapnya. Karena terganggu Yupiter bangkit, sehingga telur elang di pangkuannya jatuh dan pecah berantakan.
+
+Sang kumbang lalu menjelaskan tindakannya kepada Yupiter. Sebagai dewa yang adil Yupiter membuat keputusan yang adil bagi kedua belah pihak. Elang sudah banyak menderita. Kumbang sudah balas dendamnya. Keputusan Yupiter ialah: pada setiap musim semi, ketika elang bertelur, sang kumbang melalukan waktunya dengan tidur di sarangnya, di bawah tanah. Demikian sabda Yupiter.
+
+Renungan: Daya dendam pihak kecil mungkin tidak kecil. – (06/12/2020)
+
+
+
+
+
+## REKAM JEJAK
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+Rekam jejak di pasir pantai, segera terhapus oleh hempasan air laut. Tidak ada bekasnya. Tidak demikian halnya dengan rekam jejak digital, yang sewaktu-waktu dapat diputar kembali dan disajikan dengan berbagai bumbu penyedap kepada publik. Renungan: Rekam jejakku? -- (10/12/2020)…
+
+
+
+## DAYA SEBAR BERITA PALSU
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+Aesop, pendongeng ulung dari Yunani, punya mata yang jeli, yang menangkap berbagai gejala keseharian di dalam kehidupan masyarakat. Hasil pengamatannya dituangkan dalam berbagai dongeng, menjadikannya sumber pembelajaran yang kaya, bagi hati dan telinga yang sudi dengar. Segala umur!
+
+Pada suatu hari, demikian Aesop, Singa, si Maha Raja, marah besar. Ketika sedang menyantap seekor kambing, tanduk kambing menyangkut di kerongkongannya. Ia segera bertitah, semua hewan bertanduk harus meninggalkan wilayah kerajaannya. Semua hewan cemas dan tidak dapat tidur sepanjang malam. Ketika fajar merekah, semuanya siap-siap untuk hijrah, termasuk seekor kelinci.
+
+Sang kelinci tidak bertanduk, tetapi telinganya yang panjang dan tegak menonjol tampak seperti tanduk. Lebih dari itu, jangkrik, tetangganya, tidak henti berkerik-kerik, menyebarkan berita bahwa kelinci adalah hewan bertanduk. Pikir kelinci, apa pun pendapatku, para hewan yang tipis telinga mungkin lebih percaya pada ocehan tetanggaku yang satu ini ketimbang fakta yang obyektif.
+
+Renungan: Daya sebar berita palsu !!! –(06/12/2020)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## PEMILIK MASALAH
 
@@ -117,7 +197,7 @@ Renungan: Warisan terbaik seseorang pemimpin kepada generasi penerusnya ialah ke
 
 (02/07/2017)
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Mengapa heran? Orang heran melihat sesuatu yang baru karena belum ada rekaman di dalam otaknya tentang apa yang sedang dilihatnya. Ketika mobil Ford muncul pertama kali di jalanan di Amerika, orang keheranan melihatnya, karena rekaman yang ada di dalam otaknya ialah: kereta yang ditarik kuda. Dengan bertanya dan memahami apa yang mengherankan, muncul rekaman baru, yang meniadakan rekaman lama di dalam otak. Orang tidak lagi heran melihat kereta yang berjalan tanpa kuda.
 
@@ -127,7 +207,7 @@ Setiap orang yang menggagaskan perubahan di dalam sesuatu organisasi seyogianya 
 
 ## DARI MUSIBAH CHALLENGER
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Pada tanggal 28 Januari 1986 dunia dikejutkan oleh meledaknya pesawat ulang-alik Challenger, yang menewaskan tujuh orang awaknya. Apa penyebabnya, dan apa pelajarannya?
 
@@ -141,7 +221,7 @@ Pesan: Sumber kesalahan terbesar dalam pemecahan masalah dapat terletak pada hub
 
 ## EMPAT MATA
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Preisden Suharto dan Perdana Menteri Singapura, Lee Kuan Yew, berbeda usia tiga tahun. Suharto lebih tua. Keduanya adalah negarawan yang berkali-kali bertemu empat mata, membicarakan hal-hal mendasar dan genting, menyangkut hubungan kedua negara. Suhu hubungan kedua negara sering naik-turun, tetapi selalu terkendali karena keduanya mengandalkan pertemuan empat mata.
 
@@ -157,7 +237,7 @@ Pesan: Dialog yang terbuka dan tulus adalah jalan yang ampuh mengatasi perbedaan
 
 ## BUNGA IRIS PUTIH
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Kita tidak hanya berbicara tentang konflik melainkan juga kebersamaan dalam perbedaan, yang menjadi dasar kehidupan yang bermakna, tanpa konflik. Itulah yang dikagumi oleh Charles Handy ketika ia melihat salah sebuah lukisan Vincent van Gogh (1853-1890), pelukis Belanda yang kesohor. Lukisannya adalah lukisan bunga iris putih, yang sendirian berada di tengah sekumpulan bunga iris ungu. Charles Handy langsung menidentifikasi bunga iris putih itu sebagai dirinya sendiri. (Charles Handy, “The Hungry Spirit; New Thinking for A New World”; 2002: 130). Ia merasa dirinya berbeda dari orang lain, tetapi sekaligus juga merasa membutuhkan orang lain, tanpa menutupi perbedaannya. Ia membayangkan, apa kesannya andaikata bunga iris putih yang satu itu tidak berada di tengah-tengah sekelompok bunga iris lainnya yang berwarna ungu.
 

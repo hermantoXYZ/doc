@@ -10,6 +10,10 @@
 
 * [Prof Wim Poli](maha-guru/prof-wim-poli.md)
 
+## post
+
+* [Gumalan Rakyat Jelata](post/gumalan-rakyat-jelata.md)
+
 ## PENELITIAN/PUBLIKASI
 
 * [International Journal](penelitian-publikasi/international-journal.md)
@@ -36,7 +40,3 @@
 ## Organization/Community
 
 * [Read More](organization-community/read.md)
-
-## post
-
-* [Gumalan Rakyat Jelata](post/gumalan-rakyat-jelata.md)

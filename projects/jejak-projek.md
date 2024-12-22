@@ -1,3 +1,7 @@
+---
+icon: square-terminal
+---
+
 # Jejak Projek
 
 {% hint style="danger" %}

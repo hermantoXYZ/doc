@@ -30,7 +30,6 @@
 ## Projects
 
 * [Jejak Projek](projects/jejak-projek.md)
-* [Waplex](projects/page-3.md)
 
 ## Skills
 

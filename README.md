@@ -57,3 +57,21 @@ Kita sepakat bahwa untuk mencapai suatu perubahan, variabel pendidikan adalah Ku
 
 
 
+{% tabs %}
+{% tab title="Linkedin" %}
+[https://www.linkedin.com/in/andihermanto/](https://www.linkedin.com/in/andihermanto/)
+{% endtab %}
+
+{% tab title="Facebook" %}
+[https://web.facebook.com/hermanto.xyz](https://web.facebook.com/hermanto.xyz)
+{% endtab %}
+
+{% tab title="X.Com" %}
+[https://x.com/hermantoXYZ](https://x.com/hermantoXYZ)
+{% endtab %}
+
+{% tab title="Instagram" %}
+[https://www.instagram.com/hermanto.xyz/](https://www.instagram.com/hermanto.xyz/)
+{% endtab %}
+{% endtabs %}
+

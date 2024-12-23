@@ -13,6 +13,7 @@
 ## post
 
 * [Gumalan Rakyat Jelata](post/gumalan-rakyat-jelata.md)
+* [Tidak Ada Penyebab Tunggal](post/tidak-ada-penyebab-tunggal.md)
 
 ## PENELITIAN/PUBLIKASI
 

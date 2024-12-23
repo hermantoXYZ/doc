@@ -1,3 +1,7 @@
+---
+icon: feather
+---
+
 # Tidak Ada Penyebab Tunggal
 
 <figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption><p>A.Hermanto (23/12/2024)</p></figcaption></figure>

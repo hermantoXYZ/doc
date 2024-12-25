@@ -15,7 +15,7 @@
 * [Gumalan Rakyat Jelata](post/gumalan-rakyat-jelata.md)
 * [Tidak Ada Penyebab Tunggal](post/tidak-ada-penyebab-tunggal.md)
 
-## PENELITIAN/PUBLIKASI
+## Penelitian/Publikasi
 
 * [International Journal](penelitian-publikasi/international-journal.md)
 * [Nasional Journal](penelitian-publikasi/nasional-journal.md)

@@ -1,3 +1,7 @@
+---
+icon: figma
+---
+
 # Designs
 
 {% embed url="https://issuu.com/3kakfeb-unhas/docs/edisi_v" %}

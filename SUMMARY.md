@@ -47,4 +47,4 @@
 
 ## Awards/Penghargaan/Courses
 
-* [Awards](awards-penghargaan-courses/awards.md)
+* [Beasiswa](awards-penghargaan-courses/beasiswa.md)

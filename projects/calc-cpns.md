@@ -1,3 +1,7 @@
+---
+icon: app-store-ios
+---
+
 # Calc-CPNS
 
 Berikut ini dokumentasi mengenail Calc CPNS, sebuah app untuk Menghitung peluang, Posisi Skor SKD & SKB CPNS. Tidak menggunakan Backend seperti `django` ataupun yang lain. Saya hanya menggunakan `HTML` dan `JS` .
@@ -36,7 +40,7 @@ Silahkan diakses dan gunakan dengan bijak ya..
 
 ## 1.5 Code (index.html)
 
-{% code overflow="wrap" %}
+{% code title="" overflow="wrap" lineNumbers="true" fullWidth="true" %}
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -154,7 +158,7 @@ Silahkan diakses dan gunakan dengan bijak ya..
 
 ## Code 2 (Javascripts)
 
-{% code fullWidth="true" %}
+{% code title="Javascripts Logika dalam Web App" overflow="wrap" lineNumbers="true" fullWidth="true" %}
 ```javascript
 
 let pesertaCount = 1;

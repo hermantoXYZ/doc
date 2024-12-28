@@ -49,3 +49,4 @@
 ## Awards/Penghargaan/Courses
 
 * [Beasiswa](awards-penghargaan-courses/beasiswa.md)
+* [Page](awards-penghargaan-courses/page.md)

@@ -31,6 +31,7 @@
 ## Projects
 
 * [Jejak Projek](projects/jejak-projek.md)
+* [Calc-CPNS](projects/calc-cpns.md)
 
 ## Skills
 

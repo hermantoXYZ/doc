@@ -36,6 +36,7 @@ Silahkan diakses dan gunakan dengan bijak ya..
 
 ## 1.5 Code
 
+{% code overflow="wrap" %}
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -148,6 +149,11 @@ Silahkan diakses dan gunakan dengan bijak ya..
 </body>
 </html>
 ```
+{% endcode %}
+
+
+
+
 
 
 

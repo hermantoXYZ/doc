@@ -50,3 +50,7 @@
 
 * [Beasiswa](awards-penghargaan-courses/beasiswa.md)
 * [Narasi](awards-penghargaan-courses/narasi.md)
+
+## Visualisasi Data
+
+* [Tableau](visualisasi-data/tableau.md)

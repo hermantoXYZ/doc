@@ -10,6 +10,8 @@ Sejumlah project saya menggunakn MySQL  **Relational Databases (SQL);**
 
 Ada banyak jenis database yang bisa digunakan. Berikut adalah beberapa opsi populer beserta penjelasan singkat:
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 #### **Relational Databases (SQL)**
@@ -24,12 +26,7 @@ Ada banyak jenis database yang bisa digunakan. Berikut adalah beberapa opsi popu
    * Database ringan tanpa server. Cocok untuk prototipe, aplikasi kecil, atau aplikasi mobile.
 4. **Oracle Database**
    * Cocok untuk aplikasi enterprise dengan kebutuhan yang sangat kompleks, meskipun harganya mahal.
-
-***
-
-#### **NoSQL Databases**
-
-1. **MongoDB**
+5. **MongoDB**
    * Basis data dokumen berbasis JSON. Cocok untuk aplikasi yang membutuhkan fleksibilitas skema data (schema-less).
 
 Jika menggunakan **Django**, database default adalah **SQLite** (untuk development). bisa beralih ke PostgreSQL atau MySQL untuk aplikasi production.

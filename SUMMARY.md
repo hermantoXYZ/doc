@@ -6,6 +6,10 @@
 
 * [Personal Information](<README (1).md>)
 
+## Django Py
+
+* [Contact Form in Python Django](https://andihermanto.medium.com/create-a-simple-contact-form-in-python-django-c40681ed219d)
+
 ## Maha Guru
 
 * [Prof Wim Poli](maha-guru/prof-wim-poli.md)

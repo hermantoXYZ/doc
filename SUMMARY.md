@@ -8,7 +8,10 @@
 
 ## Django Py
 
+* [Environment Django Project](https://andihermanto.medium.com/environment-django-project-9e21c74f83f0)
+* [Static File not Working](https://andihermanto.medium.com/static-file-not-working-when-debug-is-false-in-django-cbefe4564cb7)
 * [Contact Form in Python Django](https://andihermanto.medium.com/create-a-simple-contact-form-in-python-django-c40681ed219d)
+* [Openlite Speed](https://andihermanto.medium.com/deploy-django-app-in-hostinger-with-openlitespeed-796f13ad9172)
 
 ## Maha Guru
 

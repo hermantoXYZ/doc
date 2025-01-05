@@ -16,6 +16,10 @@
 * [Django internationalization](https://andihermanto.medium.com/internationalization-83231278f29d)
 * [readmore](django-py/readmore.md)
 
+## Mysql Databases
+
+* [Pengantar](mysql-databases/pengantar.md)
+
 ## Maha Guru
 
 * [Prof Wim Poli](maha-guru/prof-wim-poli.md)

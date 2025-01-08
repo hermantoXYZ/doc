@@ -8,7 +8,7 @@ Sebagai user interfacenya kita menggunakan PhpmyAdmin untuk mengelola database M
 
 > ## A web-based application that provides a user interface for database operations
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Pilih metode ekspor:
   * **Quick**: Ekspor cepat tanpa pengaturan tambahan.

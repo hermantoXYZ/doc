@@ -1,3 +1,7 @@
+---
+icon: file-certificate
+---
+
 # Certificate/Sertifikat
 
 ## Data Analyst Profesional Academy Digital Talent Scholarship 2024

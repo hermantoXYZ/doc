@@ -65,3 +65,4 @@
 
 * [Beasiswa](awards-penghargaan-courses/beasiswa.md)
 * [Narasi](awards-penghargaan-courses/narasi.md)
+* [Certificate/Sertifikat](awards-penghargaan-courses/certificate-sertifikat.md)

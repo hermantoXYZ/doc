@@ -29,6 +29,7 @@
 
 * [Gumalan Rakyat Jelata](post/gumalan-rakyat-jelata.md)
 * [Tidak Ada Penyebab Tunggal](post/tidak-ada-penyebab-tunggal.md)
+* [Lulus SBMPTN  Tanpa Harus Bimbel](post/lulus-sbmptn-tanpa-harus-bimbel.md)
 
 ## Penelitian/Publikasi
 

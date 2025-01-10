@@ -27,6 +27,7 @@
 
 ## post
 
+* [Aku Salah, Kamu Benar (Debat Kusir di Ruang Digital)](post/aku-salah-kamu-benar-debat-kusir-di-ruang-digital.md)
 * [Gumalan Rakyat Jelata](post/gumalan-rakyat-jelata.md)
 * [Tidak Ada Penyebab Tunggal](post/tidak-ada-penyebab-tunggal.md)
 * [Lulus SBMPTN  Tanpa Harus Bimbel](post/lulus-sbmptn-tanpa-harus-bimbel.md)

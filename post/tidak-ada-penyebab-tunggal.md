@@ -4,7 +4,7 @@ icon: feather
 
 # Tidak Ada Penyebab Tunggal
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption><p>A.Hermanto (23/12/2024)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="375"><figcaption><p>A.Hermanto (23/12/2024)</p></figcaption></figure>
 
 Usai dihebohkan kasus uang palsu yang beredar di masyarakat, saat ini masyarakat sulsel diperhadapkan kondisi banjir di sejumlah titik. Berdasarkan informasi, 2 kecamatan di Makassar menjadi langganan banjir, selain Kota Makassar terdapat daerah lain, Barru, Pangkep, Soppeng, dan Palopo.
 

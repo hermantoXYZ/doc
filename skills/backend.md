@@ -4,6 +4,10 @@ icon: send-backward
 
 # Back End Project
 
+{% hint style="danger" %}
+Ini hanya merupakan skill teknis!&#x20;
+{% endhint %}
+
 Tentu saya sedikit memahami bidang ini, **apakah anda mengenal django python?**
 
 {% hint style="warning" %}

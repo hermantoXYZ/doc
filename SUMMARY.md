@@ -55,6 +55,7 @@
 * [Back End Project](skills/backend.md)
 * [Design](skills/design.md)
 * [Video Editor](skills/video-editor.md)
+* [Broadcasting](skills/broadcasting.md)
 
 ## Organization/Community
 

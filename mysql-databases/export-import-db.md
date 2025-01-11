@@ -1,3 +1,7 @@
+---
+icon: arrow-down-left-and-arrow-up-right-to-center
+---
+
 # Export/Import DB
 
 Ini menjadi penting ketika sdr mengelola sejumlah project, disini saya akan bagikan cara saya mengelola database MySQL dalam project saya, pertama saya akan melakukan export database dari layanan hosting yang saya gunakan.

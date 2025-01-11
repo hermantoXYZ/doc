@@ -53,6 +53,7 @@
 ## Skills
 
 * [Back End Project](skills/backend.md)
+* [Programming Language Python](skills/programming-language-python.md)
 * [Design](skills/design.md)
 * [Video Editor](skills/video-editor.md)
 * [Broadcasting](skills/broadcasting.md)

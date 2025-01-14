@@ -1,3 +1,7 @@
+---
+icon: table
+---
+
 # Data Analyst
 
 Data Analysis: Experienced in Python, EViews, and Stata for data analysis and statistical modeling.

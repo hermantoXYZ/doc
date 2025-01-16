@@ -77,4 +77,4 @@ Kita sepakat bahwa untuk mencapai suatu perubahan, variabel pendidikan adalah Ku
 
 
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>R</td><td>E</td></tr><tr><td>E</td><td>D</td></tr><tr><td>D</td><td>D</td></tr><tr><td>D</td><td>D</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>R</td><td>E</td><td><a href="https://app.gitbook.com/o/aJAexqsXArmihAWW3f1C/s/89GYZ7bCFBFFAobNJ6x5/">django</a></td></tr><tr><td>E</td><td>D</td><td></td></tr><tr><td>D</td><td>D</td><td></td></tr><tr><td>D</td><td>D</td><td></td></tr></tbody></table>

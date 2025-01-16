@@ -75,5 +75,6 @@ Kita sepakat bahwa untuk mencapai suatu perubahan, variabel pendidikan adalah Ku
 {% endtab %}
 {% endtabs %}
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-type="rating" data-max="5"></th><th data-type="content-ref"></th><th data-hidden data-type="content-ref"></th><th data-hidden data-type="files"></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Django Doc</strong></td><td>Free acces to modul Django Python</td><td>5</td><td><a href="https://docs.hermanto.xyz/django">https://docs.hermanto.xyz/django</a></td><td><a href="https://docs.hermanto.xyz/django">https://docs.hermanto.xyz/django</a></td><td></td><td></td><td></td></tr><tr><td><strong>Web Design UIUX</strong></td><td>Free acces to modul UI/UX</td><td>null</td><td></td><td><a href="https://docs.hermanto.xyz/django">https://docs.hermanto.xyz/django</a></td><td></td><td></td><td></td></tr></tbody></table>
 
+
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>R</td><td>E</td></tr><tr><td>E</td><td>D</td></tr><tr><td>D</td><td>D</td></tr><tr><td>D</td><td>D</td></tr></tbody></table>

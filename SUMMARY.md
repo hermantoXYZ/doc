@@ -36,6 +36,7 @@
 
 * [International Journal](penelitian-publikasi/international-journal.md)
 * [Nasional Journal](penelitian-publikasi/nasional-journal.md)
+* [Daftar Jurnal Bereputasi](penelitian-publikasi/daftar-jurnal-bereputasi.md)
 
 ## Educational Background
 

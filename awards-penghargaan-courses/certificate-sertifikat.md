@@ -24,3 +24,6 @@ icon: file-certificate
 
 {% embed url="https://drive.google.com/file/d/1c8E9YyfvezPi5sRXYUBVXnHvUwRKjDu-/view?usp=sharing" %}
 
+<figure><img src="../.gitbook/assets/ANDI HERMANTO, S.E., M.Si-1.png" alt=""><figcaption></figcaption></figure>
+
+<div><figure><img src="../.gitbook/assets/1711980183219-1.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1711980183219-2.png" alt=""><figcaption></figcaption></figure></div>

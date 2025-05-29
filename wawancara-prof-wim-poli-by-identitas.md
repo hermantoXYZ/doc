@@ -1,3 +1,7 @@
+---
+icon: comment-question
+---
+
 # Wawancara Prof Wim Poli by Identitas
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p><a href="https://identitasunhas.com/prof-wim-poli-di-antara-sastra-dan-facebook/">https://identitasunhas.com/prof-wim-poli-di-antara-sastra-dan-facebook/</a></p></figcaption></figure>
@@ -116,3 +120,5 @@ Dongeng kita itu belum dibukukan, padahal dongeng-dongeng itu kita itu kaya seka
 **Pertama kali main Facebook?**
 
 Saya tidak tahu awal mulanya. Tapi saya temukan ini, alat komunikasi yang bagus, bisa saja tidak bagus, ada juga. Kita ambil yang bagus, apalagi saya sudah kurang mengajar, saya masih ingin menyampaikan. (\*)
+
+Sumber: [https://identitasunhas.com/prof-wim-poli-di-antara-sastra-dan-facebook/](https://identitasunhas.com/prof-wim-poli-di-antara-sastra-dan-facebook/)

@@ -25,6 +25,10 @@
 
 * [Prof Wim Poli](maha-guru/prof-wim-poli.md)
 
+***
+
+* [Wawancara Prof Wim Poli by Identitas](wawancara-prof-wim-poli-by-identitas.md)
+
 ## post
 
 * [Aku Salah, Kamu Benar (Debat Kusir di Ruang Digital)](post/aku-salah-kamu-benar-debat-kusir-di-ruang-digital.md)

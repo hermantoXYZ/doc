@@ -16,7 +16,7 @@ icon: group-arrows-rotate
 
 ## Speaker: Writing Workshop on Linguistics Student Association of Law Studies, Alauddin State Islamic University, Makassar
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 

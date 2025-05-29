@@ -10,7 +10,7 @@ Tulisan ini saya rangkum dari akun Facebook [https://web.facebook.com/wim.poli](
 
 ## **PUJA-HUJAT**&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Kini, di dunia perpolitikan, puja-hujat adalah sebuah gejala yang kian mengglobal. Perang-tanding antara lain ditampilkan dalam bentuk baliho raksasa yang terpampang di berbagai tempat strategis.&#x20;
 
@@ -46,7 +46,7 @@ Akhirnya keduanya teriak: “Tutup mulutmu! Apa kerjamu? Kami yang menarik beban
 
 ## DIAGNOSA DAN TERAPI
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Disadari atau tidak, hidup ini adalah adegan tanya-jawab yang berlangsung dari waktu ke waktu. Mutu kehidupan ditentukan oleh mutu pertanyaan dan jawabannya. Apa ilustrasinya yang dipetik dari pengalaman nyata? Beberapa tahun yang lalu penulis dirawat di sebuah rumah sakit, dan ditangani seorang dokter ahli yang ditetapkan Manajemen RS. Setiap kali penulis dikunjungi, sang dokter ahli ini hanya memperhatikan laporan laboratorium di tangannya. Apa yang diperiksakan ke laboratorium dia yang tentukan, menurut keahliannya.&#x20;
 
@@ -83,7 +83,7 @@ Akibatnya, keluarga kelelawar mencari makan pada malam hari, ketika mana hewan l
 
 ## HARGA TAMPILAN
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Aesop adalah pendongeng ulung dari Yunani. Matanya jeli mengamati apa yang terjadi di dalam masyarakat, lalu mengungkapkannya dalam bentuk dongeng, sebagai sumber pemebelajaran hidup yang kaya, bagi masyarakat segala umur.
 
@@ -237,7 +237,7 @@ Setiap orang yang menggagaskan perubahan di dalam sesuatu organisasi seyogianya 
 
 ## DARI MUSIBAH CHALLENGER
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Pada tanggal 28 Januari 1986 dunia dikejutkan oleh meledaknya pesawat ulang-alik Challenger, yang menewaskan tujuh orang awaknya. Apa penyebabnya, dan apa pelajarannya?
 

@@ -18,7 +18,7 @@ Video ini dibuat menggunakan Videoscribe yang saya unggah di channel akun Zona F
 
 Berikut ini kanal Zona Filsuf yang dapat diakses untuk disimak video-video dari Filsuf Fahruddin Faiz.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p><a href="https://www.youtube.com/@ZonaFilsuf/playlists">https://www.youtube.com/@ZonaFilsuf/playlists</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://www.youtube.com/@ZonaFilsuf/playlists">https://www.youtube.com/@ZonaFilsuf/playlists</a></p></figcaption></figure>
 
 
 
